@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com Ciência de Dados
 - 🌱 Estudando Machine Learning
 - 👯 Colaborando num projeto privado de Web Scraping
-- 💬 Contate-me pelo LinkedIn: https://www.linkedin.com/in/isabelle-chacon-b2360a134/
+- 💬 Contate-me pelo <a href="https://www.linkedin.com/in/isabelle-chacon-b2360a134/"><img align="center" alt="Isa-LinkedIn" height="30" width="95" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 - 😄 Pronouns: She/Her
 
 <div align="center">
@@ -26,7 +26,7 @@
 ##
   
 <div>
-  <a href="https://www.linkedin.com/in/isabelle-chacon-b2360a134/"><img align="center" alt="Isa-LinkedIn" height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  
   
    ![Snake animation](https://github.com/isachacon/isachacon/blob/output/github-contribution-grid-snake.svg)
   
