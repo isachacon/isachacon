@@ -23,12 +23,9 @@
     <img align="center" alt="Isa-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
 </div>
   
-##
-  
-<div>
-  
+##  
   
    ![Snake animation](https://github.com/isachacon/isachacon/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+
   
