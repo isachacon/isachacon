@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Ciência de Dados
 - 🌱 Estudando Machine Learning
-- 👯 Colaborando num projeto privado de Web Scraping
+- 👯 Colaborando num projeto privado de Web Scraping (https://github.com/adeo/lmbr-gm-conv)
 - 💬 Contate-me pelo <a href="https://www.linkedin.com/in/isabelle-chacon-b2360a134/"><img align="center" alt="Isa-LinkedIn" height="30" width="95" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 - 😄 Pronouns: She/Her
 
